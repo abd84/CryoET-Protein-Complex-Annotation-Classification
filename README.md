@@ -46,7 +46,8 @@
     </p>
 
   <h2>Output</h2>
-    <p>The output includes:</p>
+    <p>Accuracy: 0.71 where as benchmark is 0.78    
+<p>The output includes:</p>
     <ul>
         <li><strong>Particle Identification</strong>: A list of segmented particles with their names and radii.</li>
         <li><strong>Segmentation Data</strong>: Structured files that contain the particle data, ready for further analysis.</li>
